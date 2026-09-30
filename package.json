@@ -1,0 +1,1 @@
+{"name":"@opencircuitlabs/organization-site","version":"0.1.0","private":true,"type":"module","description":"Public website and project directory for OpenCircuitLabs.","scripts":{"check":"node --check src/projects.js && node --check app.js","test":"node --test tests/*.test.js"},"license":"MIT"}
